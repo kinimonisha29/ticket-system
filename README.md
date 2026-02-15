@@ -59,13 +59,6 @@ pip install -r requirements.txt
 python app.py
 The backend API will start at http://localhost:5000.
 
-Gemini said
-Here is a Portfolio-Ready README.
-
-This is designed to impress recruiters. It includes status badges, a clear project structure, installation steps, and API documentation.
-
-Copy the code block below and paste it into a file named README.md in your project folder. Then push it to GitHub!
-
 Markdown
 # 🎫 Helpy - Enterprise Support Desk SaaS
 
