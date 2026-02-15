@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+*.db
+
+# Node / React
+node_modules/
+build/
+.DS_Store
+coverage/
+npm-debug.log
