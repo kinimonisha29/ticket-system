@@ -57,7 +57,7 @@ Bash
 pip install -r requirements.txt
 
 # Run the server (This will auto-create the database)
-python app.py
+python flaskmain.py
 The backend API will start at http://localhost:5000.
 
 Markdown
